@@ -12,8 +12,7 @@ versions:
   ghae: '*'
   ghec: '*'
 topics:
-  - Accounts
-  - CLI
+  - qerwiuPOqerwiuPO
   - Mobile
   - Desktop
   - Security
